@@ -1,4 +1,4 @@
-package Java.Others;
+package Extras;
 //Working with HashMap in Java...
 import java.util.HashMap;
 
